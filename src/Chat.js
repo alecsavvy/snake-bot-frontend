@@ -22,7 +22,7 @@ const Chat = () => (
       <iframe
         title="this has to be unique"
         src="https://www.twitch.tv/embed/lemonadejetpack/chat?parent=localhost"
-        height="77%"
+        height="80%"
         width="99%"
       ></iframe>
     </div>
